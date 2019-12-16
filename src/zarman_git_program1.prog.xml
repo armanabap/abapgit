@@ -4,6 +4,8 @@
   <asx:values>
    <PROGDIR>
     <NAME>ZARMAN_GIT_PROGRAM1</NAME>
+    <STATE>A</STATE>
+    <VARCL>X</VARCL>
     <DBAPL>S</DBAPL>
     <SUBC>1</SUBC>
     <FIXPT>X</FIXPT>
